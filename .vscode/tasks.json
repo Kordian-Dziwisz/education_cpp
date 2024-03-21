@@ -1,0 +1,9 @@
+{
+    "version": "2.0.0",
+    "tasks": [{
+        "label": "build",
+        "command": "cmake", // Could be any other shell command
+        "args": ["--build", "build"],
+        "type": "shell"
+    }]
+}
