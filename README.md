@@ -1,3 +1,7 @@
+### It's my zen place, where I might learn some c++ in peace
+
+### If you wish to check the progress, check out my [Github Project](https://github.com/users/Kordian-Dziwisz/projects/10)
+
 ### so this is where the fun begins...
 
 <pre>
@@ -47,7 +51,3 @@
                          ..........  .,.   ,(%*,,,,,*(%%%&&&&&/.                                                                            
                          ...........,.    ..,//////((#%%&&&&%*
 </pre>
-
-### It's my zen place, where I might learn some c++ in peace
-
-### If you wish to check the progress, check out my [Github Project](https://github.com/users/Kordian-Dziwisz/projects/10)
